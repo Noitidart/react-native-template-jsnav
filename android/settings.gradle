@@ -1,0 +1,3 @@
+rootProject.name = 'jsnav'
+
+include ':app'
