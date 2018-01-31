@@ -1,5 +1,7 @@
 // @flow
 
+import './boot'
+
 import React, { Component } from 'react'
 import { AppRegistry, ScrollView, StatusBar, View } from 'react-native'
 import { Provider } from 'react-redux'
